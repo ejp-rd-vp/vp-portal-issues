@@ -3,7 +3,7 @@
     "resourceName": "RD-Connect-GPAP",
     "resourceAddress": "https://platform.rd-connect.eu/beacon2/api/individuals",
     "resourceHomePage": "https://platform.rd-connect.eu",
-    "eMail": "",
+    "email": "",
     "resourceDescription": "The RD‐Connect Genome‐Phenome Analysis Platform (GPAP) is a collaborative platform to accelerate rare disease diagnosis and gene discovery, that enables authorised users to submit, share, analyse and interpret integrated genome-phenome data from Rare Disease patients and relatives.",
     "resourceType": [
       "patientRegistry"
@@ -22,7 +22,7 @@
     "resourceName": "Ithaca",
     "resourceAddress": "https://ithaca-emx2.molgeniscloud.org/api/beacon/individuals",
     "resourceHomePage": "https://ithaca.molgeniscloud.org/",
-    "eMail": "",
+    "email": "",
     "resourceDescription": "The main objective of this WP is to set up an interoperable registry dedicated to rare diseases within the scope of ITHACA called ILIAD Rare Diseases patient registry: an International Library of Intellectual disability and Anomalies of Development.",
     "resourceType": [
       "patientRegistry"
@@ -41,7 +41,7 @@
     "resourceName": "ERKReg",
     "resourceAddress": "https://www448.lamp.le.ac.uk/erknet/BeaconAPI/83/individuals",
     "resourceHomePage": "https://www.erknet.org/patients-registry/registry-mission",
-    "eMail": "contact@erknet.org",
+    "email": "contact@erknet.org",
     "resourceDescription": "The European Rare Kidney Disease Registry.",
     "resourceType": [
       "patientRegistry"
@@ -60,7 +60,7 @@
     "resourceName": "BBMRI-Eric",
     "resourceAddress": "http://ejprd.ref.development.bibbox.org/api/ejprd/bbmri/v3/",
     "resourceHomePage": "https://directory.bbmri-eric.eu/",
-    "eMail": "contact@bbmri-eric.eu",
+    "email": "contact@bbmri-eric.eu",
     "resourceDescription": "The BBMRI-Eric catalogue of rare disease registries and biobanks.",
     "resourceType": [
       "patientRegistry",
@@ -80,7 +80,7 @@
     "resourceName": "Orphanet",
     "resourceAddress": "http://155.133.131.171:8080/OrphanetBeacon/catalogs",
     "resourceHomePage": "https://www.orpha.net/consor/cgi-bin/Disease.php",
-    "eMail": "",
+    "email": "",
     "resourceDescription": "The Orphanet catalogue of rare disease registries and biobanks.",
     "resourceType": [
       "patientRegistry",
@@ -100,7 +100,7 @@
     "resourceName": "DDP",
     "resourceAddress": "",
     "resourceHomePage": "https://duchenne.nl/duchenne-data-platform-english/",
-    "eMail": "",
+    "email": "",
     "resourceDescription": "The Duchenne Data Platform is a patient-led registry. Health information collected is stored in 'personal datalockers' for easy access at all times by patients through wearables or online.",
     "resourceType": [
       "patientRegistry"
@@ -119,7 +119,7 @@
     "resourceName": "WikiPathways",
     "resourceAddress": "https://ejp-rd-dev1.vm.cesnet.cz/grlcs/wikipathway",
     "resourceHomePage": "https://www.wikipathways.org",
-    "eMail": "",
+    "email": "",
     "resourceDescription": "A collaborative platform for contributing and maintaining pathway information.",
     "resourceType": [
       "knowledgeBase"
@@ -138,7 +138,7 @@
     "resourceName": "CTSR",
     "resourceAddress": "",
     "resourceHomePage": "https://ctsr.uniklinik-freiburg.de/",
-    "eMail": "",
+    "email": "",
     "resourceDescription": ": The Care and Trial Site Registry (CTSR) is an online self-entry database of specialised sites seeing patients with neuromuscular and neurodegenerative diseases. It holds site-level information relevant to clinical studies and care provision, including facilities, equipment, personnel, and trial experience, as well aggregate data about their patient population. It does not hold patient-level data.",
     "resourceType": [
       "knowledgeBase"
@@ -157,7 +157,7 @@
     "resourceName": "hPSCreg",
     "resourceAddress": "https://ejp-rd-dev1.vm.cesnet.cz/grlcs/hPSCreg",
     "resourceHomePage": "https://hpscreg.eu/about",
-    "eMail": "",
+    "email": "",
     "resourceDescription": "hPSCreg is a global registry for human pluripotent stem cell lines (hPSC-lines). It aims to provide to the community\n\n1) a central and searchable hub for available hPSC-lines\n2) a central registry of clinical studies based on hPSC-lines\n3) a standardized identifier for hPSC-lines and register of these standard names\n4) a trustworthy data source for hPSC-lines by verifying the ethical and biological conformity of registered lines based on community standards\n5) comparability of quality standards in hPSC research\n6) certification of quality and ethical provenance of hPSC-lines\n7) a platform where any scientist or institution generating or working with PSC lines can register their cell lines, projects or clinical studies.",
     "resourceType": [
       "knowledgeBase"
@@ -176,7 +176,7 @@
     "resourceName": "Infrafrontier",
     "resourceAddress": "",
     "resourceHomePage": "https://www.infrafrontier.eu/",
-    "eMail": "",
+    "email": "",
     "resourceDescription": "INFRAFRONTIER, the European Research Infrastructure for modelling human diseases, provides the scientific community with access to valuable mouse and rat strains including resources and services for their generation, phenotyping, and application in specific research pipelines. INFRAFRONTIER archives and distributes transgenic lines via the European Mouse Mutant Archive (EMMA), which currently has more than 8700 strains available for distribution to researchers. EMMA is a core resource of INFRAFRONTIER and is part of its expanding resources and services portfolio.",
     "resourceType": [
       "bioBank"
@@ -195,7 +195,7 @@
     "resourceName": "Metabolights",
     "resourceAddress": "",
     "resourceHomePage": "https://www.ebi.ac.uk/metabolights/",
-    "eMail": "",
+    "email": "",
     "resourceDescription": "A catalog to contain all metabolights study resources.",
     "resourceType": [
       "knowledgeBase"
@@ -214,7 +214,7 @@
     "resourceName": "EGA",
     "resourceAddress": "",
     "resourceHomePage": "https://ega-archive.org/",
-    "eMail": "",
+    "email": "",
     "resourceDescription": "The EGA provides a service for the permanent archiving and distribution of personally identifiable genetic and phenotypic data resulting from biomedical research projects. Data at EGA was collected from individuals whose consent agreements authorise data release only for specific research use to bona fide researchers. Strict protocols govern how information is managed, stored and distributed by the EGA project.",
     "resourceType": [
       "catalog"
@@ -233,7 +233,7 @@
     "resourceName": "Registry VASCERN (VASCA)",
     "resourceAddress": "",
     "resourceHomePage": "https://vascern.eu/groupe/registry/",
-    "eMail": "",
+    "email": "",
     "resourceDescription": "Databases of the ERN vascular anomalies",
     "resourceType":  [
       "patientRegistry"
@@ -253,7 +253,7 @@
     "resourceName": "Registry ERN CRANIO (ERN CRANIO registry )",
     "resourceAddress": "",
     "resourceHomePage": "https://cranio.molgeniscloud.org/",
-    "eMail": "",
+    "email": "",
     "resourceDescription": "ERN CRANIO is the European Reference Network for rare and/or complex craniofacial anomalies and ear, nose and throat (ENT) disorders. The network was officially launched in March 2017. There are 29 European hospitals involved in ERN CRANIO, from 11 EU member states. It is a multi-disciplinary network of highly specialised healthcare professionals. Patient representatives also play an active role in the network and its activities.",
     "resourceType":  [
       "patientRegistry"
@@ -272,7 +272,7 @@
     "resourceName": "Registry ERN-Skin (ERN-Skin REGISTRY)",
     "resourceAddress": "",
     "resourceHomePage": "https://solve-rd.eu/",
-    "eMail": "",
+    "email": "",
     "resourceDescription": "The aim of ERN-Skin is to have a central European registry for all cases of rare dermatological diseases, which will be a useful tool for clinical research, simplify the development of cohorts and answer the specific questions of each Disease Group.",
     "resourceType":  [
       "patientRegistry"
@@ -291,7 +291,7 @@
     "resourceName": "Registry ERN EURO-NMD (EURO-NMD Registry )",
     "resourceAddress": "",
     "resourceHomePage": "",
-    "eMail": "",
+    "email": "",
     "resourceDescription": "EURO-NMD is a European reference network for the thematic grouping of rare neuromuscular diseases (NMDs), a broad group of related disorders that represent a major cause of mortality and lifelong disability in children and adults.",
     "resourceType":  [
       "patientRegistry"
@@ -310,7 +310,7 @@
     "resourceName": "Genturis",
     "resourceAddress": "https://genturis-emx2.molgeniscloud.org/api/beacon/individuals",
     "resourceHomePage": "https://genturis.molgeniscloud.org/",
-    "eMail": "",
+    "email": "",
     "resourceDescription": "The GENTURIS registry is the European registry for patients with one of the genetic tumour risk syndromes (genturis). The registry is affiliated to the European Reference Network for all patients with one of the genetic tumour risk syndromes (ERN GENTURIS).",
     "resourceType": [
       "patientRegistry"
@@ -329,7 +329,7 @@
     "resourceName": "FAIRVasc",
     "resourceAddress": "",
     "resourceHomePage": "",
-    "eMail": "",
+    "email": "",
     "resourceDescription": "FAIRVASC is a research project of the European Vasculitis Society (EUVAS) and RITA European Reference Network, bringing together leading scientists, clinicians and patient organisations. The FAIRVASC consortium is made up of 10 partners who represent all of these areas of patient care, also substantial support from VIFOR PHARMA should be acknowledged. There are many important gaps in our knowledge about why and how vasculitis occurs, why some people seem to be more susceptible than others, how the disease process acts inside the body and whether different kinds of vasculitis should be treated in different ways.",
     "resourceType":  [
       "patientRegistry"
@@ -348,7 +348,7 @@
     "resourceName": "CHD7",
     "resourceAddress": "https://mutatiedatabases.molgeniscloud.org/api/beacon/individuals",
     "resourceHomePage": "",
-    "eMail": "",
+    "email": "",
     "resourceDescription": "",
     "resourceType": [
       "patientRegistry"
@@ -367,7 +367,7 @@
     "resourceName": "Registry ERN eUROGEN",
     "resourceAddress": "",
     "resourceHomePage": "https://eurogen-ern.eu/what-we-do/registry-digital-activities/aim/",
-    "eMail": "",
+    "email": "",
     "resourceDescription": "Registry from ERN eUROGEN on rare uro-recto-genital diseases and complex conditions.",
     "resourceType": [
       "patientRegistry"
